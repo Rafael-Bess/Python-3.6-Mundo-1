@@ -1,2 +1,2 @@
 n =(input('Digite um valor: '))
-print( ())
+print(n)
