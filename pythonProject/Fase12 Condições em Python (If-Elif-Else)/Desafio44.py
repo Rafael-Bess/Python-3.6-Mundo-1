@@ -1,10 +1,9 @@
-'''
-Elabore um programa que calcule o valor a ser pago por produto, considerando o seu preço normal e condição de pagamento
+'''Elabore um programa que calcule o valor a ser pago por produto, considerando o seu preço normal e condição de pagamento
 - À vista dinheiro/cheque: 10% de desconto
 - À vista no cartão: 5% de desconto
 - em até 2x no cartão: preço normal
-- 3x ou mais no cartão: 20% de juros
-'''
+- 3x ou mais no cartão: 20% de juros'''
+
 produto = float(input('Insira o valor do produto em Reais: '))
 dolar = produto / 4.87
 Forma = int(input('Qual a forma de pagamento? \n'
@@ -14,7 +13,7 @@ Forma = int(input('Qual a forma de pagamento? \n'
                   '4 - 3x ou mais Cartão       | 20% Juros   \n'
                   '---------------------------------------------\n'
                   ''))
-        print('---------------------------------------------')
+print('---------------------------------------------')
 desc1 = (10 * produto) / 100
 prod1 = produto - desc1
 dolar1 = prod1 / 4.87
