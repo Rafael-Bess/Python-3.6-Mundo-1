@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="021ae467-349d-4a4d-a297-c72f696ea259" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicio2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exerciocio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafio1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex003.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula03.py" afterDir="false" />
-    </list>
+    <list default="true" id="021ae467-349d-4a4d-a297-c72f696ea259" name="Changes" comment="ra" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +34,27 @@
       <option name="presentableId" value="Default" />
       <updated>1691280501206</updated>
     </task>
+    <task id="LOCAL-00001" summary="ra">
+      <option name="closed" value="true" />
+      <created>1691326500577</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691326500577</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ra">
+      <option name="closed" value="true" />
+      <created>1691326591848</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691326591848</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ra" />
+    <option name="LAST_COMMIT_MESSAGE" value="ra" />
   </component>
 </project>
