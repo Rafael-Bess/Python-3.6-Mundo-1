@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="021ae467-349d-4a4d-a297-c72f696ea259" name="Changes" comment="" />
+    <list default="true" id="021ae467-349d-4a4d-a297-c72f696ea259" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exerciocio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafio1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex003.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula03.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +26,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
