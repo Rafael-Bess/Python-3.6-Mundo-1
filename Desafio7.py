@@ -1,0 +1,7 @@
+n1 = float(input('\033[1;31;40mQual a nota da A1? \033[m '))
+n2 = float(input('\033[1;31;40mQual a nota da A2? \033[m '))
+r = ((n1+n2)/2)
+print('\033[1;31;40msua media é\033[m \033[1;30;42m{} \033[m'.format(r))
+#print('Sua media é {}'.format(r))
+#print('Sua média é {:.2f}.format(r))
+#:(depois do).2( casas após o ponto flutuante)flutuante = f(float)
