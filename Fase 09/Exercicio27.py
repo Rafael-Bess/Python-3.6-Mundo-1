@@ -1,5 +1,0 @@
-nome = str(input('\033[4;30;45mInsira seu nome completo:\033[m')).strip()
-prinome = nome.split()
-ultnome = nome.split()
-print('\033[4;30;45mSeu primeiro nome é {}\033[m'.format(prinome[0].title()))
-print('\033[4;30;45mSeu ultimo nome é {}\033[m'.format(ultnome[-1].title()))
